@@ -37,19 +37,3 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 		self.player.stop()
 		self.noiseThread.join()
 	
-	# def playWaveFile(fileName,noiseThread,noisePlayer):
-		# global fileWavePlayer, fileWavePlayerThread
-		# f = wave.open(fileName,"r")
-		# if f is None: raise RuntimeError("can not open file %s"%fileName)
-		# if fileWavePlayer is not None:
-		# fileWavePlayer.stop()
-		# fileWavePlayer = WavePlayer(channels=f.getnchannels(), samplesPerSec=f.getframerate(),bitsPerSample=f.getsampwidth()*8, outputDevice=config.conf["speech"]["outputDevice"],wantDucking=False)
-		# fileWavePlayer.feed(f.readframes(f.getnframes()))
-		# if asynchronous:
-			# if fileWavePlayerThread is not None:
-				# fileWavePlayerThread.join()
-			# fileWavePlayerThread = threading.Thread(
-			# name=f"{__name__}.playWaveFile({os.path.basename(fileName)})",
-			# target=fileWavePlayer.idle
-		# )
-		# fileWavePlayerThread.start()
