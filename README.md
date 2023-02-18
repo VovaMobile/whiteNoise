@@ -1,5 +1,5 @@
 # whiteNoise
-## [Download whiteNoise 0.1](https://github.com/albzan/whiteNoise/releases/download/0.1/whiteNoise-0.1.nvda-addon)
+## [Download whiteNoise 0.2](https://github.com/albzan/whiteNoise/releases/download/0.2/whiteNoise-0.2.nvda-addon)
 
 Recent sound cards are automatically disabled after few seconds of silence for power saving reasons. When using TTS this causes the annoying effect of losing the first part of the spoken message.
 
