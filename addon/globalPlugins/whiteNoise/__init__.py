@@ -5,7 +5,6 @@ import wave
 import config
 import os
 import nvwave
-from logHandler import log
 
 class Player:
 	__stop = False

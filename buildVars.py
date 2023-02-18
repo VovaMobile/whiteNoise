@@ -19,9 +19,9 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""Prevents sound card to get into standby by playing white noise"""),
 	# version
-	"addon_version" : "0.1",
+	"addon_version" : "0.2",
 	# Author(s)
-	"addon_author" : u"Alberto Zanella <lapostadialberto@gmail.com>",
+	"addon_author" : u"Alberto Zanella <lapostadialberto@gmail.com>, Federico Opitz",
 	# URL for the add-on documentation support
 	"addon_url" : None,
 	# Documentation file name

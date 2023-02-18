@@ -7,3 +7,4 @@ This simple addon, continues to play a "virtual" silence playback on the sound c
 
 ## Author:
 * Alberto Zanella
+* Federico Opitz
