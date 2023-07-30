@@ -19,16 +19,16 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""Prevents sound card to get into standby by playing white noise"""),
 	# version
-	"addon_version" : "0.2",
+	"addon_version" : "2023.1",
 	# Author(s)
 	"addon_author" : u"Alberto Zanella <lapostadialberto@gmail.com>, Federico Opitz",
 	# URL for the add-on documentation support
 	"addon_url" : None,
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
-    "addon_minimumNVDAVersion" : "2019.3.0",
+    "addon_minimumNVDAVersion" : "2019.3",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion" : "2025.9.0",
+	"addon_lastTestedNVDAVersion" : "2023.1",
 	# Add-on update channel (default is stable or None)
 	"addon_updateChannel" : None,
 
